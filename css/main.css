@@ -32,7 +32,7 @@ header {
     text-align: center;
     background-size: 300% 300%;
     animation: gradient 10s ease infinite;
-    background: url('https://github.com/pedrobrito07/Curriculo-Online/blob/main/img/web-dev-ty.jpg?raw=true');
+    background: url(../img/binario-teste.jpg);
     background-size: cover;
 }
 
