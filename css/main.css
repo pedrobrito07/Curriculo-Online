@@ -32,7 +32,7 @@ header {
     text-align: center;
     background-size: 300% 300%;
     animation: gradient 10s ease infinite;
-    background: url('https://cdn6.f-cdn.com/files/download/82615852/web-dev-ty.jpg');
+    background: url('https://github.com/pedrobrito07/Curriculo-Online/raw/main/binario-teste.jpg');
     background-size: cover;
 }
 
@@ -483,6 +483,15 @@ footer i {
 }
 
 @-webkit-keyframes fade {
+    from {
+        opacity: .4
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@keyframes fade {
     from {
         opacity: .4
     }
